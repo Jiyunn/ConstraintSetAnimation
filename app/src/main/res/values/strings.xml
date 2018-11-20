@@ -1,0 +1,12 @@
+<resources>
+    <string name = "app_name">ConstraintSetAnimation</string>
+    <string name = "msg">What a beautiful flower!</string>
+    <string name = "msg_detail">I took this picture in my old house two years ago.\n
+        My house was in a beautiful place. There were several colorful maple trees in the fall, shading in the summer.\n
+        My dog liked the flower. She sniffed, sneezed, and smiled at me. (In fact, dogs can laugh.)\n
+        Now, it doesn\'t exist anymore. But the beautiful moment I saw will remain in my mind forever.
+    I took this picture in my old house two years ago.\n
+        My house was in a beautiful place. There were several colorful maple trees in the fall, shading in the summer.\n
+        My dog liked the flower. She sniffed, sneezed, and smiled at me. (In fact, dogs can laugh.)\n
+        Now, it doesn\'t exist anymore. But the beautiful moment I saw will remain in my mind forever.</string>
+    </resources>
